@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2020", // Specify the ECMAScript version
+    "module": "node16", // CommonJS for Node.js modules
+    "moduleResolution": "node16", // Set module resolution to node16
+    "esModuleInterop": true, // Enable interoperability for CommonJS modules
+    "forceConsistentCasingInFileNames": true, // Enforce consistent casing in file names
+    "skipLibCheck": true, // Skip type checking of declaration files
+    "strict": true, // Enable strict type-checking options
+    "resolvePackageJsonExports": true // Enable package.json exports resolution
+  }
+}
