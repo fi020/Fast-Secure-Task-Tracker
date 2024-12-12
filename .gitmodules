@@ -1,0 +1,3 @@
+[submodule "task-tracker-backend"]
+	path = task-tracker-backend
+	url = https://github.com/sriharsha18-reddy/Fast-Secure-Task-Tracker.git
